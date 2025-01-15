@@ -2,9 +2,11 @@
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
+// version: 1.0.0
 
 let package = Package(
     name: "TFpacket",
+    platforms: [.iOS(.v16)],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
