@@ -38,9 +38,7 @@ struct ContentView: View {
 ### Visuals & Previews
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/bf2b3b54-8595-4bf4-a8ab-a22bb2944ee9" width="250" height="auto" />
-  <img src="https://github.com/user-attachments/assets/6c111a3c-74f6-4dd1-9d9d-64327db5581d" width="250" height="auto" />
+  <img src="https://github.com/user-attachments/assets/20aa2a29-da70-4841-8894-f59cba9350f0" width="250" height="auto" />
+  <img src="https://github.com/user-attachments/assets/74df55ea-2c99-4dfc-891b-9b721b96eded" width="250" height="auto" />
 </div>
-  <img src="https://github.com/user-attachments/assets/36e7cb72-544c-45ce-aaf5-e12915d40079" width="%100" height="auto" />
-
-
+  <img src="https://github.com/user-attachments/assets/4028d1ea-74e6-407a-bec1-c1f32791ff67" width="%100" height="auto" />
